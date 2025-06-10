@@ -1,4 +1,4 @@
-👋 Bonjour, je suis Nasser, développeur backend passionné et étudiant en développement web et design.
+👋 Bonjour, je suis Nasser, développeur backend passionné et étudiant en développement web et mobile et design.
 
 💻 J’ai une solide expérience en Java et Spring Boot pour créer des API REST sécurisées et performantes.
 
