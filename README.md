@@ -1,50 +1,17 @@
-Hey there! 👋 I'm Nasser
+👋 Bonjour, je suis Nasser, développeur backend passionné et étudiant en développement web et design.
 
-🚀 Backend & Mobile Developer | Tech Enthusiast | Builder of Awesome Things
+💻 J’ai une solide expérience en Java et Spring Boot pour créer des API REST sécurisées et performantes.
 
-"Code is like humor. When you have to explain it, it’s bad." – Cory House
+⚙️ Je maîtrise aussi le développement frontend avec React, ce qui me permet de réaliser des applications web complètes, modernes et réactives.
 
+📱 Je m'intéresse également au développement mobile avec Flutter, et je cherche à construire des projets fullstack efficaces et maintenables.
 
+🚀 J’adore relever des défis techniques, apprendre de nouvelles technologies et appliquer les bonnes pratiques du développement logiciel.
 
-🌟 About Me
+🔧 Mon approche est orientée qualité de code, architecture claire et évolutive, ainsi qu’une expérience utilisateur fluide.
 
-Passionate about creating scalable, efficient, and secure applications, I specialize in Spring Boot for backend development and Flutter for mobile apps. I love solving complex problems and bringing ideas to life through code.
+🌍 Passionné par les projets qui ont un impact réel, je développe notamment des solutions pour la mise en relation, la gestion et l’e-commerce.
 
-🔥 What I Do
+📚 Sur ce profil, je partage mes projets personnels, des prototypes, des expérimentations ainsi que mes contributions open source.
 
-🖥️ Backend Development🔹 Java, Spring Boot, REST APIs, MySQL, Docker, JWT Authentication🔹 Microservices Architecture, CI/CD, API Security
-
-📱 Mobile Development🔹 Flutter, Provider, Firebase Firestore🔹 State Management, UI/UX Best Practices
-
-🛠️ Tech & Tools🔹 Docker, Kubernetes, Apache Reverse Proxy🔹 Git, GitHub Actions, Jenkins, CI/CD Pipelines
-
-🚀 Featured Projects
-
-🛒 E-commerce API (Spring Boot, JWT, MySQL)
-
-🔹 Secure authentication system with JWT + Spring Security🔹 Product & order management with admin panel🔹 RESTful API with Swagger documentation
-
-📚 Digital Library API (Spring Boot, Docker, MySQL)
-
-🔹 User authentication & book management🔹 JWT-based security & admin controls🔹 API documentation with OpenAPI
-
-💬 Social Network for Students (Flutter, Spring Boot, Firebase)
-
-🔹 Real-time chat, status updates, video sharing🔹 OTP authentication via email/SMS🔹 Secure backend with role-based access control
-
-🛠 Tech Stack
-
-
-
-
-
-
-
-
-📫 Let's Connect!
-
-
-
-
-📩 Let's build something awesome together. Feel free to reach out! 🚀
-
+🤝 N’hésitez pas à me contacter pour échanger ou collaborer !
