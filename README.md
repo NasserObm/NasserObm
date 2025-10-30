@@ -61,6 +61,3 @@ Réseaux / Social
   LinkedIn : [linkedin.com/in/Nasser](https://www.linkedin.com/in/mohamed-nasser-obame-essono-mbomeyo-783548315/)
   GitHub : [github.com/NasserObm](https://github.com/NasserObm)
 
-
-Souhaites-tu que je t’en fasse maintenant une **mise en page type CV (format blocs, avec colonnes à gauche/droite)**, pour que tu puisses le copier dans Word ou Canva facilement ?
-Je peux te montrer **la structure visuelle exacte (titres, espacements, ordre)**.
