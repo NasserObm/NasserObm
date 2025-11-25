@@ -35,7 +35,6 @@
 <img width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" alt="TS"/>
 <img width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React"/>
 <img width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="NextJS"/>
-<img width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="TailwindCSS"/>
 
 <!-- Mobile -->
 <img width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter"/>
@@ -60,7 +59,7 @@
 <img width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" alt="Trello"/>
 
 <!-- Modeling -->
-<img width="70" src="https://upload.wikimedia.org/wikipedia/commons/5/59/UML_logo.svg" alt="UML"/>
+
 
 </div>
 
