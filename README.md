@@ -1,5 +1,5 @@
 <!-- Banner -->
-<img src="https://i.imgur.com/q7lVQ4P.gif" width="100%" />
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVSS3B8Y8X3gPqQfAfxDxrHbaUw_IOVjbblg&s" width="100%" />
 
 # Hi, I'm Mo
 
