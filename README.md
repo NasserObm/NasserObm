@@ -1,5 +1,4 @@
 <div align="center">
-<img width=100% src="https://i.imgur.com/q7lVQ4P.gif">
 
 <br><br>
 
@@ -149,5 +148,4 @@
 </picture>
 
 <div>
-<img width=100% src="https://i.imgur.com/q7lVQ4P.gif">
 </div>
