@@ -7,8 +7,7 @@
 
 ---
 
-![Stars](https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME)
-![Profile Views](https://gpvc.arturio.dev/YOUR_GITHUB_USERNAME)
+![Stars](https://img.shields.io/github/stars/NasserObm)
 
 </div>
 <!-- Animated Hello Banner -->
