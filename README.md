@@ -13,10 +13,10 @@
 
 ## I'm currently working on:
 
-+ Boncontact (Transport & Delivery App)
-+ Digital Library System (Spring Boot + JWT + Docker)
-+ Document Management System for city councils
-+ PCI-DSS–style secure encrypted storage (Spring + React)
++ E-commerce Website
++ Citizen–Professional Matching Platform
++ Automated SMS Sending System
++ Social network
 + Flutter utilities and mobile tools
 + One-page responsive portfolio website
 
