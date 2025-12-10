@@ -5,13 +5,10 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3500&pause=1000&center=true&vCenter=true&repeat=true&width=550&height=35&lines=Hi,+I'm+Mo;Fullstack+Developer;Spring+Boot+%7C+React+%7C+Flutter;Web+%26+Mobile+Developer;Linux+%26+DevOps+Learner">
 
----
-
-![Stars](https://img.shields.io/github/stars/NasserObm)
 
 </div>
 <!-- Animated Hello Banner -->
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="600" alt="animated hello">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="1000" alt="animated hello">
 
 <br><br>
 
