@@ -6,8 +6,8 @@
 
 ---
 
-![Stars](https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME)
-![Profile Views](https://gpvc.arturio.dev/YOUR_GITHUB_USERNAME)
+![Stars](https://img.shields.io/github/stars/NasserObm)
+![Profile Views](https://gpvc.arturio.dev/NasserObm)
 
 </div>
 
