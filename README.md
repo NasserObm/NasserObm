@@ -121,7 +121,8 @@ Passionate fullstack developer with expertise in building modern web and mobile 
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
- GitHub Statistics
+## GitHub Statistics
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NasserObm&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" width="100%">
 
 <picture>
   <source 
@@ -210,8 +211,6 @@ Passionate fullstack developer with expertise in building modern web and mobile 
 
 <br>
 
-<!-- Profile Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=NasserObm&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" width="100%">
 
 <br><br>
 
