@@ -31,14 +31,14 @@ About Me
 
 Passionate fullstack developer with expertise in building modern web and mobile applications. I love creating elegant solutions to complex problems and continuously learning new technologies.
 
-- 🔭 Currently working on multiple exciting projects
-- 🌱 Learning DevOps and advanced system architecture
-- 💡 Enthusiastic about clean code and best practices
-- 🎯 Goal: Build impactful applications that solve real-world problems
+-  Currently working on multiple exciting projects
+-  Learning DevOps and advanced system architecture
+-  Enthusiastic about clean code and best practices
+-  Goal: Build impactful applications that solve real-world problems
 
 <br clear="right"/>
 
-## 💼 Current Projects
+##  Current Projects
 
 <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="30"> **E-commerce Website** - Full-stack online shopping platform
 
@@ -104,7 +104,7 @@ Passionate fullstack developer with expertise in building modern web and mobile 
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
-## 📊 GitHub Statistics
+ GitHub Statistics
 
 <picture>
   <source 
@@ -151,7 +151,7 @@ Passionate fullstack developer with expertise in building modern web and mobile 
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
-## 🤝 Connect With Me
+## Connect With Me
 
 <img src="https://user-images.githubusercontent.com/74038190/235294002-8aafea24-3179-45af-91d9-412ad7ff5359.gif" width="100"> <img src="https://user-images.githubusercontent.com/74038190/235294007-de441046-823e-4eff-89bf-d4df52858b65.gif" width="100">
 <img src="https://user-images.githubusercontent.com/74038190/235294008-ed8de58b-d4d0-4790-aa81-a39fdc8a1e50.gif" width="100">
@@ -171,11 +171,11 @@ Passionate fullstack developer with expertise in building modern web and mobile 
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
-## 🎯 Fun Fact
+## Fun Fact
 
 <img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" width="400">
 
-*"Code is like humor. When you have to explain it, it's bad!"* 😄
+*"Code is like humor. When you have to explain it, it's bad!"* 
 
 <br>
 
@@ -187,7 +187,7 @@ Passionate fullstack developer with expertise in building modern web and mobile 
 <!-- Footer -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
-### 💜 Thanks for visiting my profile!
+###  Thanks for visiting my profile!
 
 <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="50">
 
