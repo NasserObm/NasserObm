@@ -3,7 +3,7 @@
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3500&pause=1000&center=true&vCenter=true&repeat=true&width=550&height=35&lines=Hi,+I'm+Mo;Fullstack+Developer;Spring+Boot+%7C+React+%7C+Flutter;Web+%26+Mobile+Developer;Linux+%26+DevOps+Learner">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3500&pause=1000&center=true&vCenter=true&repeat=true&width=550&height=35&lines=Hi,+I'm+Nasser;Fullstack+Developer;Spring+Boot+%7C+React+%7C+Flutter;Web+%26+Mobile+Developer;Linux+%26+DevOps+Learner">
 
 
 </div>
@@ -12,8 +12,6 @@
 
 <br><br>
 
-<!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3500&pause=1000&center=true&vCenter=true&repeat=true&width=550&height=70&lines=Hi,+I'm+Mo+👋;Fullstack+Developer+💻;Spring+Boot+%7C+React+%7C+Flutter;Web+%26+Mobile+Developer+🚀;Linux+%26+DevOps+Learner+🐧" alt="Typing SVG">
 
 <br>
 
