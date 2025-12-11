@@ -5,58 +5,8 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3500&pause=1000&center=true&vCenter=true&repeat=true&width=550&height=35&lines=Hi,+I'm+Nasser;Fullstack+Developer;Spring+Boot+%7C+React+%7C+Flutter;Web+%26+Mobile+Developer;Linux+%26+DevOps+Learner">
 
-
-</div>
-<!-- Animated Hello Banner -->
-<!--<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="2000"  alt="animated hello">-->
-
-
-<br>
-
-<!-- Profile Stats Badges -->
-![Stars](https://img.shields.io/github/stars/NasserObm?style=for-the-badge&logo=github&logoColor=white&color=yellow)
-![Profile Views](https://komarev.com/ghpvc/?username=NasserObm&style=for-the-badge&color=blueviolet)
-![Followers](https://img.shields.io/github/followers/NasserObm?style=for-the-badge&logo=github&logoColor=white&color=blue)
-
-<br>
-
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-
 </div>
 
-About Me
-
-<img align="right" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="300">
-
-Passionate fullstack developer with expertise in building modern web and mobile applications. I love creating elegant solutions to complex problems and continuously learning new technologies.
-
--  Currently working on multiple exciting projects
--  Learning DevOps and advanced system architecture
--  Enthusiastic about clean code and best practices
--  Goal: Build impactful applications that solve real-world problems
-
-<br clear="right"/>
-
-##  Current Projects
-
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="30"> **E-commerce Website** - Full-stack online shopping platform
-
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="30"> **Citizen-Professional Matching Platform** - Connecting citizens with professionals
-
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="30"> **Automated SMS Sending System** - Communication automation tool
-
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="30"> **Social Network** - Modern social media platform
-
-<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="30"> **Flutter Utilities** - Mobile development tools and utilities
-
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="30"> **Portfolio Website** - One-page responsive portfolio
-
-<br>
-
-<div align="center">
-
-<!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
 ## 🛠️ Tech Stack & Skills
@@ -115,6 +65,54 @@ Passionate fullstack developer with expertise in building modern web and mobile 
     <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48"/><br>VS Code</td>
   </tr>
 </table>
+<!-- Animated Hello Banner -->
+<!--<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="2000"  alt="animated hello">-->
+
+
+<br>
+
+<!-- Profile Stats Badges -->
+![Stars](https://img.shields.io/github/stars/NasserObm?style=for-the-badge&logo=github&logoColor=white&color=yellow)
+![Profile Views](https://komarev.com/ghpvc/?username=NasserObm&style=for-the-badge&color=blueviolet)
+![Followers](https://img.shields.io/github/followers/NasserObm?style=for-the-badge&logo=github&logoColor=white&color=blue)
+
+<br>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+
+</div>
+
+About Me
+
+<img align="right" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="300">
+
+Passionate fullstack developer with expertise in building modern web and mobile applications. I love creating elegant solutions to complex problems and continuously learning new technologies.
+
+-  Currently working on multiple exciting projects
+-  Learning DevOps and advanced system architecture
+-  Enthusiastic about clean code and best practices
+-  Goal: Build impactful applications that solve real-world problems
+
+<br clear="right"/>
+
+##  Current Projects
+
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="30"> **E-commerce Website** - Full-stack online shopping platform
+
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="30"> **Citizen-Professional Matching Platform** - Connecting citizens with professionals
+
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="30"> **Automated SMS Sending System** - Communication automation tool
+
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="30"> **Social Network** - Modern social media platform
+
+<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="30"> **Flutter Utilities** - Mobile development tools and utilities
+
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="30"> **Portfolio Website** - One-page responsive portfolio
+
+<br>
+
+<div align="center">
 
 <br><br>
 
